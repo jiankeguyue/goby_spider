@@ -1,0 +1,7 @@
+argparse
+requests
+colorama
+config
+os
+pandas
+colorama
